@@ -11,15 +11,15 @@ function Header() {
         </IconButton>
        
 
-       <IconButton>
+       {/* <IconButton> */}
           <img 
        className="header_logo"
-       src="https://p.kindpng.com/picc/s/19-195266_tinder-icon-2017-logo-vector-gradient-tinder-logo.png"
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcoNUWAbUPaFpLVIqI65kvOxIrJ5yrO2oZkTHXVCA1Izznd_NE3ukXIOJB4DLYKk6HuA&usqp=CAU"
 
        alt=""
        />
 
-       </IconButton>
+       {/* </IconButton> */}
        
       <IconButton>
            <ForumIcon fontSize="large" className="header_icon" />
